@@ -4,21 +4,18 @@ Credits and notations
 
 ## ICON FONTS
 
-Font-Awesome
-http://fortawesome.github.io/Font-Awesome/
+[Font-Awesome](http://fortawesome.github.io/Font-Awesome/)
 
 ## JAVASCRIPT
 
 ### Modals
 
-Bootstrap
-http://getbootstrap.com/javascript/
+[Bootstrap](http://getbootstrap.com/javascript/)
 
 ### "Off-Canvas" Navigation
 
 Udacity
-Course: Responsive Web Design Fundaments, Lesson 4: Common Responsive Patterns
-http://www.udacity.com
+Course: [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893), Lesson 4: Common Responsive Patterns
 
 ## IMAGES
 
