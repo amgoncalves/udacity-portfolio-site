@@ -1,23 +1,27 @@
-# README
+# Portfolio Mock-Up
 
-Credits and notations
+[View Mock-Up](http://amgoncalves.github.io/udacity-portfolio-site/)
 
-## ICON FONTS
+A mock portfolio website to experiment with responsive design principles learned from [Udacity's online web development courses](https://www.udacity.com/courses/web-development).
+
+## Resources
+
+### Icon Fonts
 
 [Font-Awesome](http://fortawesome.github.io/Font-Awesome/)
 
-## JAVASCRIPT
+### JavaScript
 
-### Modals
+#### Modals
 
 [Bootstrap](http://getbootstrap.com/javascript/)
 
-### "Off-Canvas" Navigation
+#### "Off-Canvas" Navigation
 
 Udacity
 Course: [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893), Lesson 4: Common Responsive Patterns
 
-## IMAGES
+### Images
 
 All images obtained using Google Image Search
 
